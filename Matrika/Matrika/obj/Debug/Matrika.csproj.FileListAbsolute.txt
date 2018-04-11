@@ -1,0 +1,2 @@
+D:\PRO_2Nino\Matrika\Matrika\obj\Debug\Matrika.csprojResolveAssemblyReference.cache
+D:\PRO_2Nino\Matrika\Matrika\obj\Debug\Matrika.csproj.CoreCompileInputs.cache
